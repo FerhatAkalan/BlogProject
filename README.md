@@ -1,2 +1,2 @@
 # BlogProje
-#### ASP.NET CORE 5.0 ile Blog Projesi
+#### ASP.NET CORE 5.0 ile Blog Projesi (Geliştirme Aşamasında)
